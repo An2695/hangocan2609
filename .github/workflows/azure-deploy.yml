@@ -6,7 +6,7 @@ on:
       - main # Chạy tự động khi push vào nhánh main
 
 env:
-  AZURE_WEBAPP_NAME: 'webapp-hangocan' # Tên viết thường để khớp hoàn toàn với Publish Profile
+  AZURE_WEBAPP_NAME: 'webapp-HaNgocAn' # Tên viết thường để khớp hoàn toàn với Publish Profile
 
 jobs:
   build-and-deploy:
